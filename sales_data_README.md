@@ -1,4 +1,4 @@
-# 📊 Shopping Behavior Analysis: Sales Data Exploration
+# 📊 E-commerce Sales Analysis by SQL: Sales Data Exploration
 
 ## 🗂️ Dataset: `sales_data` from `ecommerce_sales`
 
