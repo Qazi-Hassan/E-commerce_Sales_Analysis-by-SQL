@@ -205,12 +205,9 @@ ORDER BY total_sold ASC;
 ```
 ecommerce_sales/
 │
-├── sales_data_schema.sql         # CREATE TABLE script
-├── sample_queries.sql            # All queries listed above
-├── insights_readme.md            # This README
-└── screenshots/                  # (Optional) Visualization outputs
-```
-
+├── sales_data_schema.sql         
+├── sample_queries.sql    
+|   dataset (CSV)
 ---
 
 ## 🧠 Future Improvements
